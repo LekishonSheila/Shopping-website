@@ -1,0 +1,164 @@
+body{
+   overflow-x: hidden; 
+   background-color: whitesmoke;
+}
+.box2{
+    background-color: whitesmoke; 
+    height: 50px;  
+   }
+   ol{
+       float: left;
+   }
+   ol li{
+       float: left;
+       width: 90px;
+       position: relative;
+       left: 80%;
+       display: flex;
+   }
+   ol li a{
+       text-decoration: none;
+       color: black;
+   }
+   .pen img{
+    background-size: cover;
+    width: 1300px;
+  
+   }.container{   
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    color: white;
+}
+#discover{
+    background-color: pink;
+    padding: 10px 50px;
+}
+.topic{
+    display: flex;
+   justify-content: space-between;
+
+}
+.selection{
+    justify-content: center;
+    display: flex;
+  
+}
+.week{
+    justify-content: center;
+
+}
+h4{
+
+    width: 460px;
+
+}
+h1{
+    font-size: 30px;
+    color:white;
+    font-size: 70px;
+}
+#products{
+    background-color: pink;
+    padding: 10px 50px;   
+}
+#subscribe{
+    background-color: pink;
+    padding: 10px 50px;
+}
+.one img{
+    width: 70px;
+    height: 200px;
+}
+.two img{
+    width: 70px;
+    height: 200px;
+}
+.three img{
+    width: 70px;
+    height: 200px;
+}
+.four img{
+    width: 100px;
+    height: 500px;
+}
+.Dress{
+    display: flex;
+}
+.button{
+    margin-left: 50%;
+}
+#show{
+    background-color: pink;
+    padding: 10px 50px;
+}
+.contaner{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.shop img{
+    height: 380px;
+    width: 80vh;
+    margin-bottom: -20%;
+ 
+}
+.Dress img{
+    height: 350px;
+    width: 300px;  
+}
+.trouser img{
+    height: 380px;
+    width: 80vh;
+    margin-bottom: -20%;
+}
+.box img{
+    display: flex;
+    flex-direction: column;
+   
+}
+.contaner h2 h4 button{
+    position: absolute;
+    
+}
+.Blank{
+    justify-content: center;
+    padding-left: 40%;
+    margin-top: 15%;
+} 
+.pictre img{
+    background-size: cover;
+    width: 1300px;
+
+}
+.icon img{
+    width: 100px;
+    height: 100px;
+    margin-top: -300px;
+    padding-left: 560px;
+    position: absolute;
+    
+   
+}
+.Athlete img{
+    width:80vh;
+    margin-bottom: -40%;
+  
+}
+
+.footer{
+    background-color:whitesmoke;
+    color:black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+      
+  }
+ 
+  
+
+
+
+
+
+   
